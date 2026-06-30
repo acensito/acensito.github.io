@@ -3,7 +3,8 @@
 ## Índice
 1. [Introducción](#introducción)
 2. [Preguntas Frecuentes](#preguntas-frecuentes)
-3. [Recursos Adicionales](#recursos-adicionales)
+3. [Herramientas Útiles](#herramientas-útiles)
+4. [Recursos Adicionales](#recursos-adicionales)
 
 ## Introducción
 Este documento recopila las preguntas más frecuentes (FAQ) relacionadas con los Ciclos Formativos de Grado Superior (CFGS) en Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW). Está diseñado para ayudar a estudiantes, profesores y cualquier persona interesada en estos programas educativos.
@@ -22,7 +23,7 @@ La recomendación es usar la última versión estable de Apache NetBeans, a ser 
 ### ❓ **¿Puedo usar otro IDE en lugar de NetBeans a puerta gayola?**
 👉 Sí, claro que puedes. Pero no es recomendable si no estas habituado o no tienes experiencia. NetBeans no es un dogma de fe, es solo una herramienta. Puedes usar IntelliJ IDEA, Eclipse o incluso Visual Studio Code con los plugins correctos. Para Java, te recomendaria Netbeans, para asuntos web, Visual Studio Code es una excelente opción.
 Lo importante no es el IDE, sino que entiendas el lenguaje, las librerías y cómo compilar/ejecutar tu proyecto.
-Eso sí: asegúrate que tu profe no tenga problemas con que uses otro IDE, ya que podría complicar la corrección de tus ejercicios. Recuerda después de las herramientas que te encuentres en sede de examen. Si quieres usar Dreamweaver o Frontpage, ten en cuenta  este detalle.
+Eso sí: asegúrate que tu profe no tenga problemas con que uses otro IDE, ya que podría complicar la corrección de tus ejercicios. Recuerda después de las herramientas que te encuentres en sede de examen. Si quieres usar Dreamweaver o Frontpage, ten en cuenta este detalle.
 
 ### ❓ **¿Puedo ser molón usando frameworks y librerías modernas en mis tareas?**
 👉 Antes de ser tan hipster y moderno, no vayas por libre y consulta primero con tu profesor, sigue la linea marcada por el profesorado. Seguramente sepas usar un framework o librería moderna, pero es importante que esté alineado con los objetivos del curso y las expectativas, que es coger unas bases fuertes. Es como una enseñanza "generica". Por ejemplo usar Spring Boot mola, pero si no sabemos los entresijos de programar en Java, cualquier salto a otro framework o tecnologia puede ser problemático.
@@ -45,10 +46,26 @@ Algunas claves:
 
 En resumen: organización, constancia y descanso → salud mental y aprobado.
 
+## Herramientas Útiles
+Para sobrevivir (y triunfar) en el ciclo sin perder pelo ni la cordura en el intento, aquí tienes un arsenal de herramientas que te harán la vida infinitamente más fácil.
 
+### 💻 **Entornos de Desarrollo (IDEs) y Editores**
+* **Visual Studio Code:** El editor de texto indiscutible hasta el momento. Es ligero, ultra-personalizable y con extensiones sirve para absolutamente todo (HTML, CSS, JS, PHP, Dart, C#, etc). Para el curso y para tu posterior desarrollo como desarrolador, es necesario que lo tengas instalado desde el primer momento, aunque incialmente no le des mucho uso, debes ir familiarizandote con él.
+* **IntelliJ IDEA (Community Edition):** Si en Java quieres ver lo que es un IDE del siglo XXI, la versión gratuita de JetBrains es una bendición. Te autocompleta con cabeza y te avisa de los errores antes de que compiles.
+* **Android Studio:** Indispensable en el segundo año de DAM para el desarrollo móvil. Devora memoria RAM como si no hubiera un mañana, pero es el estándar de la industria.
 
+### 🌿 **Control de Versiones (Tu seguro de vida)**
+* **Git y GitHub / GitLab:** Aprende a usarlos desde la primera semana. Olvídate de guardar carpetas tipo `proyecto_final_v2_bueno_este_si.zip`. Si metes la pata y rompes el código a las tres de la mañana, Git te permite viajar en el tiempo y salvar el día.
 
+### 🗄️ **Gestión de Bases de Datos**
+* **DBeaver:** Una herramienta universal para gestionar bases de datos (MySQL, SQLite, PostgreSQL...). Tiene una interfaz gráfica limpia y cómoda que te evitará pelearnos con consolas prehistóricas.
+* **Laragon o XAMPP:** Para levantar servidores locales en tu máquina en un par de clics. Laragon es especialmente rápido, limpio y va de lujo para aislar tus entornos de desarrollo web sin ensuciar el sistema operativo.
 
+### 📡 **Pruebas de Servicios y APIs**
+* **Postman o Insomnia:** Cuando empieces a crear servicios web o APIs y necesites comprobar si tus peticiones devuelven los datos correctos de forma rápida, sin tener que construir toda la interfaz visual de la aplicación para verlo.
 
+### ⏱️ **Productividad y Organización**
+* **Notion u Obsidian:** Ideales para tomar apuntes limpios en Markdown, estructurar los bloques del ciclo, organizar calendarios con las fechas de entrega de las tareas y tener tu propio repositorio de conocimiento bien ordenado.
 
-
+## Recursos Adicionales
+*(Espacio reservado para enlaces a documentación oficial, comunidades de Discord, canales de YouTube de referencia, etc.)*
