@@ -110,7 +110,7 @@ El ciclo te dará la base, unos mimbres, pero ser desarrollador implica ser auto
 *   **[Curso Visual Studio Code: Mejora tu velocidad para codificar](https://cursos.devtalles.com/courses/visual-studio-code)**
 
 ### 💳 **Cursos de Pago (Buenos, bonitos y baratos)**
-**⚠️ REGLA DE ORO PARA UDEMY y otros:** *NUNCA* compres un curso a 90€ o 100€. las webs suelen hacer rebajas cada dos por tres. Mete los cursos en la lista de deseos y espera unos días; te acabarán costando entre **10€ y 15€** o incluso menos.
+**⚠️ REGLA DE ORO PARA UDEMY Y OTROS:** *NUNCA* compres un curso a 90€ o 100€. las webs suelen hacer rebajas cada dos por tres. Mete los cursos en la lista de deseos y espera unos días; te acabarán costando entre **10€ y 15€** o incluso menos.
 
 *   **[Fernando Herrera (Udemy / DevTalles)](https://fernando-herrera.com/):** Absolutamente imprescindible. Si por ejemplo quieres aprender **Flutter** para hacer apps multiplataforma limpias y profesionales, o quieres dominar Node, TypeScript y Angular, sus cursos son de lo mejor que existe en habla hispana.
 *   **[Juan Pablo de la Torre (Udemy)](https://www.udemy.com/user/juanpablodelatorrevaldez/):** Uno de los mejores instructores si te vas por la rama de DAW. Sus cursos de Desarrollo Web Completo o PHP con bases de datos son larguísimos, súper completos y te enseñan a hacer proyectos reales.
@@ -124,3 +124,4 @@ El ciclo te dará la base, unos mimbres, pero ser desarrollador implica ser auto
 *   [MDN Web Docs (La biblia del desarrollo web)](https://developer.mozilla.org/es/)
 *   [Comunidad Discord DevOps Andalucia](https://discord.gg/KvzacmNEJy) Comunidad Discord de alumnos y antiguos alumnos de DAM/DAW/ASIR de Andalucia.
 *   [Portal FP Consejeria Educación Andalucia](https://www.juntadeandalucia.es/educacion/portales/web/formacion-profesional-andaluza)
+*   [Portal FP Informática Andaluza](https://fpadinformatica.es/)
